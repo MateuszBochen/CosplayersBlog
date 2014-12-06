@@ -1,0 +1,3 @@
+blog_cosplayers_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: BlogCosplayersBundle:Default:index }
